@@ -1,0 +1,25 @@
+{
+  "contactData": [
+    {
+      "id": 1,
+      "country": "United States",
+      "mobile": "+1 202-555-0143",
+      "name": "John Doe",
+      "icon": "FaFlagUsa"
+    },
+    {
+      "id": 2,
+      "country": "India",
+      "mobile": "+91 98765 43210",
+      "name": "Rahul Verma",
+      "icon": "FaFlagIndia"
+    },
+    {
+      "id": 3,
+      "country": "United Kingdom",
+      "mobile": "+44 20 7946 0958",
+      "name": "Sarah Smith",
+      "icon": "FaFlagUk"
+    }
+  ]
+}
